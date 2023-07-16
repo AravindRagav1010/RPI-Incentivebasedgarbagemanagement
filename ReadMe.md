@@ -15,5 +15,6 @@ Process or flow:
 4. Image processing --> cam starts to capture waste images and the CNN model identifies the type of waste.  
 5. Segregation --> The respective bin assigned to the waste that is been identified opens for the user to dispose of their waste.  
 6. Level Detection --> The ultrasonic sensor calculates the depth of the bin and returns if the bin is full or empty/half full and indicated using the LEDs.  
-7. Provision of Incentive --> The user is been incentivized with credits that correspond to the type of waste that is been disposed of.  
+7. Provision of Incentive --> The user is been incentivized with credits that correspond to the type of waste that is been disposed of.
+8. The User can view the number of waste disposed of and the respective credit amount using the Mobile Application.  
 ----------- This process takes place until the user wants to stop disposing of the waste -----------
